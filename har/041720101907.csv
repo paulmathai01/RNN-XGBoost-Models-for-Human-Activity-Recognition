@@ -1,0 +1,3 @@
+round_epochs,loss,acc,val_loss,val_acc,activation,batch_size,dropout,epochs,last_activation,losses,lr,optimizer
+1,0.05226379844808295,0.37465993,0.04681324561036607,0.43472347,<function relu at 0x135faad90>,2,0.0,1,<function sigmoid at 0x135faaea0>,<function logcosh at 0x134d85158>,0.5,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>
+1,0.0491795526522139,0.43315196,0.040862832658857984,0.5729828,<function relu at 0x135faad90>,2,0.0,1,<function sigmoid at 0x135faaea0>,<function logcosh at 0x134d85158>,0.5,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>
