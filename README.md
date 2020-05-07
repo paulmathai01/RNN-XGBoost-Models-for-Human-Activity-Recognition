@@ -1,0 +1,1 @@
+# RNN-XGBoost-Models-for-Human-Activity-Recognition
